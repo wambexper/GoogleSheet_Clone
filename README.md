@@ -6,3 +6,5 @@ I have majory majorly used the following technologies to build up the Google She
      3.JavaScript for giving interactivity and making it moore responsive.
 
       *********PETER WAMBEDDE*********Upcoming SDE
+      
+![image](https://github.com/wambexper/GoogleSheet_Clone/assets/118281574/654f20a1-d2c7-4c75-b53f-1d30b1d237af)
